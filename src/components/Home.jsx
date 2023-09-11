@@ -24,6 +24,7 @@ function Home() {
         inputSearch={inputSearch}
         inputStars={inputStars}
       />
+      
     </div>
   );
 }
